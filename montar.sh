@@ -1,3 +1,3 @@
 #!/bin/bash
 
-mkdir EXAME_DEC && gocryptfs EXAME_ENC EXAME_DEC
+mkdir -p EXAME_DEC && gocryptfs EXAME_ENC EXAME_DEC
